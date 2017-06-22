@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Testing about link](about.md)
+[Testing about link](otteroriented.github.io/about)
 
 You can use the [editor on GitHub](https://github.com/OtterOriented/otteroriented.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
